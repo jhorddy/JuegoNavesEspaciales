@@ -15,4 +15,4 @@ Este proyecto es un juego de naves espaciales desarrollado en JavaScript. El jug
 - **JavaScript**: Para la lógica del juego y la interacción del usuario.
 - **Canvas**: Para el renderizado de gráficos y animaciones.
 ## Capturas de Pantalla
-![Nave Espacial](imagenes/cara.web.webp)
+![Nave Espacial](imagenes/invader.jpg)
